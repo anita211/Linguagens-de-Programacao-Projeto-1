@@ -57,3 +57,5 @@ tests:
     - -with-rtsopts=-N
     dependencies:
     - projeto1
+    - hspec
+    - QuickCheck
